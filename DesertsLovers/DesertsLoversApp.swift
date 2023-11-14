@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct DesertsLoversApp: App {
+    @StateObject private var viewModel = AppViewModel()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBarView(viewModel: self.viewModel)
         }
     }
 }

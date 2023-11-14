@@ -7,18 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E81B79262B02AC5400A572A4 /* FeaturedMealsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79252B02AC5400A572A4 /* FeaturedMealsView.swift */; };
+		E81B79282B02AC7D00A572A4 /* CustomLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79272B02AC7D00A572A4 /* CustomLabelView.swift */; };
+		E81B792A2B02AD0C00A572A4 /* SingleMealCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79292B02AD0C00A572A4 /* SingleMealCardView.swift */; };
+		E81B792C2B02F8B600A572A4 /* RoundedCornersImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B792B2B02F8B600A572A4 /* RoundedCornersImageView.swift */; };
+		E81B792E2B0302A200A572A4 /* FeaturedMealPopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B792D2B0302A200A572A4 /* FeaturedMealPopUp.swift */; };
+		E81B79302B03051A00A572A4 /* CustomPillSUButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B792F2B03051A00A572A4 /* CustomPillSUButton.swift */; };
+		E81B79332B03079700A572A4 /* Meals.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79322B03079700A572A4 /* Meals.swift */; };
+		E81B79362B03081C00A572A4 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79352B03081C00A572A4 /* TabBarView.swift */; };
+		E81B79392B030D8E00A572A4 /* FavoriteManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79382B030D8E00A572A4 /* FavoriteManager.swift */; };
+		E81B793B2B030E5700A572A4 /* DessertDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B793A2B030E5700A572A4 /* DessertDetailView.swift */; };
+		E81B793E2B03140000A572A4 /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B793D2B03140000A572A4 /* Favorites.swift */; };
+		E81B79412B03172A00A572A4 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79402B03172A00A572A4 /* NetworkManager.swift */; };
+		E81B79432B0318EB00A572A4 /* DessertListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81B79422B0318EB00A572A4 /* DessertListView.swift */; };
 		E8A54CBD2B02593E0008AE50 /* DesertsLoversApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8A54CBC2B02593E0008AE50 /* DesertsLoversApp.swift */; };
 		E8A54CBF2B02593E0008AE50 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8A54CBE2B02593E0008AE50 /* ContentView.swift */; };
 		E8A54CC12B0259460008AE50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8A54CC02B0259460008AE50 /* Assets.xcassets */; };
 		E8A54CC42B0259460008AE50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8A54CC32B0259460008AE50 /* Preview Assets.xcassets */; };
+		E8A54CCB2B0259BC0008AE50 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8A54CCA2B0259BB0008AE50 /* Home.swift */; };
+		E8A54CCD2B025A490008AE50 /* AppViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8A54CCC2B025A490008AE50 /* AppViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E81B79252B02AC5400A572A4 /* FeaturedMealsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeaturedMealsView.swift; sourceTree = "<group>"; };
+		E81B79272B02AC7D00A572A4 /* CustomLabelView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomLabelView.swift; sourceTree = "<group>"; };
+		E81B79292B02AD0C00A572A4 /* SingleMealCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleMealCardView.swift; sourceTree = "<group>"; };
+		E81B792B2B02F8B600A572A4 /* RoundedCornersImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedCornersImageView.swift; sourceTree = "<group>"; };
+		E81B792D2B0302A200A572A4 /* FeaturedMealPopUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeaturedMealPopUp.swift; sourceTree = "<group>"; };
+		E81B792F2B03051A00A572A4 /* CustomPillSUButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomPillSUButton.swift; sourceTree = "<group>"; };
+		E81B79322B03079700A572A4 /* Meals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meals.swift; sourceTree = "<group>"; };
+		E81B79352B03081C00A572A4 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		E81B79382B030D8E00A572A4 /* FavoriteManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteManager.swift; sourceTree = "<group>"; };
+		E81B793A2B030E5700A572A4 /* DessertDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertDetailView.swift; sourceTree = "<group>"; };
+		E81B793D2B03140000A572A4 /* Favorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
+		E81B79402B03172A00A572A4 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		E81B79422B0318EB00A572A4 /* DessertListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertListView.swift; sourceTree = "<group>"; };
 		E8A54CB92B02593E0008AE50 /* DesertsLovers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesertsLovers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8A54CBC2B02593E0008AE50 /* DesertsLoversApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesertsLoversApp.swift; sourceTree = "<group>"; };
 		E8A54CBE2B02593E0008AE50 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E8A54CC02B0259460008AE50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8A54CC32B0259460008AE50 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E8A54CCA2B0259BB0008AE50 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		E8A54CCC2B025A490008AE50 /* AppViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +62,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E81B79312B03077600A572A4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E81B79322B03079700A572A4 /* Meals.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E81B79342B03080000A572A4 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				E81B79352B03081C00A572A4 /* TabBarView.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		E81B79372B030D6000A572A4 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				E8A54CCC2B025A490008AE50 /* AppViewModel.swift */,
+				E81B79382B030D8E00A572A4 /* FavoriteManager.swift */,
+				E81B79402B03172A00A572A4 /* NetworkManager.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		E81B793C2B03139D00A572A4 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				E8A54CCA2B0259BB0008AE50 /* Home.swift */,
+				E81B793D2B03140000A572A4 /* Favorites.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		E81B793F2B03168600A572A4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E81B792B2B02F8B600A572A4 /* RoundedCornersImageView.swift */,
+				E81B793A2B030E5700A572A4 /* DessertDetailView.swift */,
+				E81B79292B02AD0C00A572A4 /* SingleMealCardView.swift */,
+				E81B79272B02AC7D00A572A4 /* CustomLabelView.swift */,
+				E81B79252B02AC5400A572A4 /* FeaturedMealsView.swift */,
+				E81B792D2B0302A200A572A4 /* FeaturedMealPopUp.swift */,
+				E81B792F2B03051A00A572A4 /* CustomPillSUButton.swift */,
+				E81B79422B0318EB00A572A4 /* DessertListView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		E8A54CB02B02593E0008AE50 = {
 			isa = PBXGroup;
 			children = (
@@ -53,6 +133,11 @@
 			children = (
 				E8A54CBC2B02593E0008AE50 /* DesertsLoversApp.swift */,
 				E8A54CBE2B02593E0008AE50 /* ContentView.swift */,
+				E81B79372B030D6000A572A4 /* ViewModels */,
+				E81B79312B03077600A572A4 /* Models */,
+				E81B79342B03080000A572A4 /* Navigation */,
+				E81B793F2B03168600A572A4 /* Views */,
+				E81B793C2B03139D00A572A4 /* Screens */,
 				E8A54CC02B0259460008AE50 /* Assets.xcassets */,
 				E8A54CC22B0259460008AE50 /* Preview Content */,
 			);
@@ -83,6 +168,8 @@
 			dependencies = (
 			);
 			name = DesertsLovers;
+			packageProductDependencies = (
+			);
 			productName = DesertsLovers;
 			productReference = E8A54CB92B02593E0008AE50 /* DesertsLovers.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +198,8 @@
 				Base,
 			);
 			mainGroup = E8A54CB02B02593E0008AE50;
+			packageReferences = (
+			);
 			productRefGroup = E8A54CBA2B02593E0008AE50 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -137,7 +226,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E81B79262B02AC5400A572A4 /* FeaturedMealsView.swift in Sources */,
+				E81B792A2B02AD0C00A572A4 /* SingleMealCardView.swift in Sources */,
+				E81B793B2B030E5700A572A4 /* DessertDetailView.swift in Sources */,
+				E81B79432B0318EB00A572A4 /* DessertListView.swift in Sources */,
+				E81B793E2B03140000A572A4 /* Favorites.swift in Sources */,
+				E81B79412B03172A00A572A4 /* NetworkManager.swift in Sources */,
 				E8A54CBF2B02593E0008AE50 /* ContentView.swift in Sources */,
+				E81B79302B03051A00A572A4 /* CustomPillSUButton.swift in Sources */,
+				E81B792C2B02F8B600A572A4 /* RoundedCornersImageView.swift in Sources */,
+				E81B79282B02AC7D00A572A4 /* CustomLabelView.swift in Sources */,
+				E8A54CCB2B0259BC0008AE50 /* Home.swift in Sources */,
+				E8A54CCD2B025A490008AE50 /* AppViewModel.swift in Sources */,
+				E81B792E2B0302A200A572A4 /* FeaturedMealPopUp.swift in Sources */,
+				E81B79332B03079700A572A4 /* Meals.swift in Sources */,
+				E81B79392B030D8E00A572A4 /* FavoriteManager.swift in Sources */,
+				E81B79362B03081C00A572A4 /* TabBarView.swift in Sources */,
 				E8A54CBD2B02593E0008AE50 /* DesertsLoversApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
