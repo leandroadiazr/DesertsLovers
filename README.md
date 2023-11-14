@@ -1,5 +1,4 @@
 # DesertsLovers
-Deserts Lovers
 
 Welcome to Deserts Lovers iOS challenge! This project was crafted in response to a coding challenge for the position I've applied. 
 
